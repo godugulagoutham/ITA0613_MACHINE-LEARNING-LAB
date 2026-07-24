@@ -1,0 +1,30 @@
+#EXPERIMENT(3)_DECISIONTREE
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier, plot_tree
+import matplotlib.pyplot as plt
+# Sample dataset
+data = {
+    'Outlook': [0, 0, 1, 2, 2, 2, 1, 0],
+    'Temperature': [0, 0, 0, 1, 1, 1, 1, 0],
+    'Humidity': [1, 1, 1, 1, 0, 0, 0, 1],
+    'Wind': [0, 1, 0, 0, 0, 1, 1, 0],
+    'PlayTennis': [0, 0, 1, 1, 1, 0, 1, 0]
+}
+
+df = pd.DataFrame(data)
+
+X = df.drop('PlayTennis', axis=1)
+y = df['PlayTennis']
+
+# ID3 uses entropy
+model = DecisionTreeClassifier(criterion='entropy')
+model.fit(X, y)
+
+# Plot tree
+plt.figure(figsize=(8,5))
+plot_tree(model, feature_names=X.columns, class_names=['No','Yes'], filled=True)
+plt.show()
+
+# Test sample
+test = [[0, 1, 1, 0]]
+print("Prediction:", model.predict(test))
