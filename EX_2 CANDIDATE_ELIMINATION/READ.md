@@ -92,24 +92,6 @@ Example Attributes:
 
 ---
 
-## 📤 Output
-
-The algorithm displays:
-
-- Final Specific Boundary (S)
-- Final General Boundary (G)
-
-Example:
-
-Specific Boundary (S):
-
-['Sunny', 'Warm', '?', 'Strong', '?', '?']
-
-General Boundary (G):
-
-['Sunny', '?', '?', '?', '?', '?']
-
----
 
 ## 💡 Applications
 
@@ -139,22 +121,22 @@ General Boundary (G):
 - Difficult to implement for complex problems.
 
 ---
-
-## 📈 Expected Result
-
-The Candidate Elimination Algorithm successfully identifies the Version Space by determining the Specific Boundary (S) and General Boundary (G) that are consistent with the given training data.
-
----
-
 ## 🏁 Conclusion
 
 The Candidate Elimination Algorithm was successfully implemented using Python. The algorithm generated the Specific Boundary (S) and General Boundary (G), representing all hypotheses consistent with the given training examples. This experiment demonstrates concept learning using Version Space in machine learning.
 
 ---
 
+## 📈 output
+<img width="1283" height="747" alt="Image" src="https://github.com/user-attachments/assets/68004278-1f3c-45fc-9355-f5ade40dff7a" />
+
+---
+
+
+
 ## 👨‍💻 Author
 
-**Name:** Goutham G  
+**Name:** GODUGULA GOUTHAM (192312187)
 **Course:** B.E. Electronics and Communication Engineering  
 **Subject:** Machine Learning Laboratory  
 **Experiment:** Candidate Elimination Algorithm
