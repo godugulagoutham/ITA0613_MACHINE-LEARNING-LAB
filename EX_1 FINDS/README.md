@@ -113,12 +113,6 @@ Final Hypothesis:
 
 ---
 
-## 🏁 Conclusion
-
-The FIND-S Algorithm was successfully implemented using Python. It generated the most specific hypothesis from the given training dataset by considering only positive examples. This experiment demonstrates the basic concept of supervised learning and hypothesis generation.
-
----
-
 ## 👨‍💻 Author
 
 **Name:** GODUGULA GOUTHAM (192312187)
