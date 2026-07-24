@@ -107,9 +107,9 @@ Final Hypothesis:
 
 ---
 
-## 📈 Expected Result
+## 📈OUTPUT 
 
-The FIND-S Algorithm successfully identifies the most specific hypothesis that is consistent with all positive training examples.
+<img width="1255" height="262" alt="Image" src="https://github.com/user-attachments/assets/610f1598-7d97-495e-915d-949f852b83b6" />
 
 ---
 
