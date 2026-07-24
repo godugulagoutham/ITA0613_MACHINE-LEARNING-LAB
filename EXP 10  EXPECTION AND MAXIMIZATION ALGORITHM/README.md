@@ -100,7 +100,7 @@ The Expectation Maximization (EM) Algorithm was successfully implemented in Pyth
 
 ## 👨‍💻 Author
 
-**Name:** Goutham G  
+**Name:** GODUGULA GOUTHAM(192312187)
 **Course:** B.E. Electronics and Communication Engineering  
 **Subject:** Machine Learning Laboratory  
 **Experiment:** Expectation Maximization (EM) Algorithm
