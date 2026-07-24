@@ -121,7 +121,7 @@ The FIND-S Algorithm was successfully implemented using Python. It generated the
 
 ## 👨‍💻 Author
 
-**Name:** Goutham G  
+**Name:** GODUGULA GOUTHAM (192312187)
 **Course:** B.E. Electronics and Communication Engineering  
 **Subject:** Machine Learning Laboratory  
 **Experiment:** FIND-S Algorithm
