@@ -50,6 +50,8 @@ If required, install the libraries using:
 ```python
 !pip install numpy pandas scikit-learn matplotlib seaborn
 
+
+
 | Experiment No. | Experiment Name                                                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**          | Implement and demonstrate the FIND-S algorithm for finding the most specific hypothesis based on a given set of training data samples. |
@@ -72,6 +74,8 @@ If required, install the libraries using:
 | **18**         | Implement Perceptron-based IRIS Classification.                                                                                        |
 | **19**         | Implement Naïve Bayes Classification for Bank Loan Prediction.                                                                         |
 | **20**         | Implement Future Sales Prediction using a suitable Machine Learning algorithm.                                                         |
+
+
 
 ## 👨‍💻 Author
 
