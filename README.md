@@ -74,10 +74,19 @@ If required, install the libraries using:
 | **20**         | Implement Future Sales Prediction using a suitable Machine Learning algorithm.                                                         |
 
 ## 👨‍💻 Author
-Goutham G.
 
-Department: Electronics and Communication Engineering (ECE)
+**Goutham G.**
 
-Course: Machine Learning Lab
+**Department:** Electronics and Communication Engineering (ECE)
 
-Lab Code: ITA06
+**Course:** Machine Learning Lab
+
+**Lab Code:** ITA06
+
+---
+
+## ⭐ Conclusion
+
+This repository provides the practical implementation of the **ITA06 – Machine Learning Lab** experiments.
+
+The laboratory demonstrates the application of different Machine Learning algorithms for **concept learning, classification, regression, clustering, and real-world prediction problems using Python and Google Colab**.
