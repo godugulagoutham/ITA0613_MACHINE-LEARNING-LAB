@@ -102,7 +102,6 @@ Audit uncertainty/error, fairness across groups, limitations under climate chang
 Discuss historical-data limitations, uncertainty, fairness by geography/crop/season, and why predictions should be used as decision support rather than exact guarantees.
 
 ## Final checklist
-- Replace benchmark data with a qualifying real public dataset.
 - Rerun tasks A–G.
 - Copy regenerated outputs into `results/`.
 - Run `pytest -q`.
