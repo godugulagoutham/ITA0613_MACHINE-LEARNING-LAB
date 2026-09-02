@@ -1,0 +1,18 @@
+{
+  "raw_rows": 20000,
+  "clean_rows": 20000,
+  "train_rows": 16743,
+  "validation_rows": 1583,
+  "test_rows": 1674,
+  "knn_best_metric": "mahalanobis",
+  "knn_best_k": 21,
+  "knn_test_MAE": 1.3639738010665463,
+  "knn_test_RMSE": 1.8182343851597984,
+  "knn_test_R2": -0.019135111656680026,
+  "lwr_best_tau": 2.0,
+  "lwr_test_MAE": 1.354563902083216,
+  "lwr_test_RMSE": 1.8200926322735222,
+  "lwr_test_R2": -0.02121930128098315,
+  "pipeline_status": "A -> B -> C -> D -> E -> F -> G completed successfully",
+  "tests_status": "passed"
+}
