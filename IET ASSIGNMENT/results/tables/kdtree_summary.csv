@@ -1,0 +1,2 @@
+N,build_seconds,kd_query_seconds,brute_query_seconds,same_nearest
+10000,0.03820552400009092,0.00043939900001532806,0.0003483329999198759,True
